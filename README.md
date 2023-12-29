@@ -63,7 +63,8 @@ print("{:.2f}".format(norm))
 <br>
 <br>
 <br>
-![Screenshot 2023-12-29 114304](https://github.com/nainamohamed09642/Norm-of-a-matrix/assets/151916360/0199c8ec-3e22-42d5-831b-86b03a56b18e)
+![Screenshot 2023-12-29 114304](https://github.com/nainamohamed09642/Norm-of-a-matrix/assets/151916360/052da664-024e-46e9-9b44-e572116c4bcf)
+
 
 
 ## Result
